@@ -7,7 +7,6 @@ import org.slf4j.LoggerFactory;
 
 public class EasierMining implements ModInitializer {
 	public static final String MOD_ID = "easier-mining";
-
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
